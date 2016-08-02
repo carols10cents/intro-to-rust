@@ -1,2 +1,3 @@
-# intro-to-rust
-Slides for an intro to rust that presents the guessing game tutorial and ownership
+# Intro to Rust
+
+Slides for a 1 hr, 45 min intro to Rust that presents the guessing game tutorial and ownership in a similar way that the book does.
